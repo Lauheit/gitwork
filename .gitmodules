@@ -1,0 +1,3 @@
+[submodule "submodules/teste"]
+	path = submodules/teste
+	url = git@github.com:Lauheit/teste.git
